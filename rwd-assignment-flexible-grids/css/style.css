@@ -1,0 +1,112 @@
+/* COLORS - - - - - - - */
+
+.peach-bg{ /* base layer color MAYBE DELETE LATER*/
+    background-color: #FFE6DE;
+}
+
+.pink-bg{
+    background-color: #DDC1C3;
+}
+
+.purp-bg{
+    background-color: #8A7F93;
+}
+
+.lightblue-bg{
+    background-color: #A3A7B3;
+}
+
+.darkblue-bg{
+    background-color: #858A9A;
+}
+
+/* WELCOME TO HEIGHT WORLD - - - - - - - - */
+
+.h-510{
+    height:510px;
+}
+
+.h-320{
+    height:320px;
+}
+
+.h-660{
+    height:660px;
+}
+
+
+.h-560{
+    height:560px;
+}
+
+/* PAGE PARTS - - - - - - - */
+
+main{
+    width:100%;
+    height:auto;
+    margin:0px auto;
+    background-color:#FFE6DE;
+}
+
+header{
+    height:90px;
+    background-color: #A3A7B3;
+    /*overflow:hidden;*/
+}
+   
+.logo{ /*COME BACK TO FIX MARGINS*/
+    float:right;
+    width:9.72222222%; /*140px*/
+    height:44.44%; /*40px*/
+    margin: 25px 3.47222222%; /*25px 50px*/
+}
+
+
+.row{
+    width:100%;
+    overflow:hidden;
+}
+
+.container1{
+    width: 93.75%;
+    height:80.3921%;
+    margin: 50px 3.47%; 
+}
+
+.col-third{
+    width:33.3333%; /*450px*/
+    height:100%;
+    float:left;
+}
+
+.col-twothird{
+    width:66.6666%; /*900px*/
+    height:100%;
+    float:left;
+}
+
+.col-fourth{
+    width:25%;
+    float:left;
+    height:320px;
+}
+
+.col-half{
+    width:50%;
+    float:left;
+    height:100%;
+}
+
+.container2{
+    width:96.18%;
+    height:84.84%;
+    margin: 50px 1.875%;
+}
+.col-fifth{
+    width:20%;
+    height:100%;
+    float:left;
+}
+
+
+
