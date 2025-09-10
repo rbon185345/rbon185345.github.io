@@ -1,0 +1,64 @@
+/* BG COLORS - - - - - - - */
+.aqua{
+    background-color: aqua;
+}
+
+/* HEIGHT - - - - - - - */
+.h-50{
+    height:50px;
+}
+/* PAGE ELEMENTS - - - - - - - */
+
+header{
+    width:100%;
+    height:auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:100px;
+    font-weight:bolder;
+    text-align:center;
+    color:yellow;
+    background-color:hotpink;
+    
+}
+.main{
+    width:100%;
+    height:auto;
+    overflow:hidden;
+}
+
+.hero{
+    width:100%;
+    height:666px;
+    background-color:aqua;
+}
+
+.row{
+    width:100%;
+}
+
+.col-half{
+    width:50%;
+    float:left;
+}
+
+.col-half2{
+    width:50%;
+    float:left;
+    height:auto;
+}
+
+.woohoo{
+    background-image: url("../img/woohoo.jpg");
+    background-size:cover;
+    background-position:center center;
+}
+
+.pattern{
+    background-image: url("../img/hooray.jpg");
+    background-size:80px 80px;
+    background-position:50% 50%;
+}
+
+img, iframe{
+    max-width:100%;
+}
