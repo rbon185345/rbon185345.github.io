@@ -1,0 +1,58 @@
+@media screen and (max-width:1024px) {
+    .hero, .hero-col, .manman, .gallery, .footer{
+        width:100vw;
+        float:none;
+    }
+    
+    .footer{
+        clear:both;
+    }
+
+    .gallery{
+        height:auto;
+        max-height:200px;
+    }
+
+    .content-2{
+        padding: 1.5rem 2.5rem;
+    }
+
+    html, body {
+    overflow-x: hidden;
+    }
+}
+
+@media screen and (max-width:900px){
+    h2{
+        font-size:1rem;
+    }
+
+    body{
+        font-size:.7rem;
+    }
+
+}
+
+@media screen and (max-width:600px) {
+    .content-2{
+        padding: 2rem 1.5rem;
+    }
+    h1{
+        font-size:1rem;
+    }
+
+    h2{
+        font-size:.8rem;
+    }
+    body{
+        font-size:.6rem;
+    }
+
+    .logo{
+        visibility:hidden;
+    }
+
+    .socialmedia img{
+        margin: 0px 0px;
+    }
+}
