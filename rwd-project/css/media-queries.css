@@ -1,0 +1,83 @@
+
+@media screen and (max-width:1044px){
+    h2{
+        font-size: 1.1rem;
+    }
+
+    body{
+        font-size:.8rem;
+    }
+
+}
+
+@media screen and (max-width:900px){
+    .nav{
+        display:none;
+    }
+
+    .hamburger{
+        display:flex;
+    }
+
+    h2{
+        font-size: 1.2rem;
+    }
+
+    body{
+        font-size:.9rem;
+    }
+    
+    .title{
+        padding:5vh 0 0 0;
+    }
+
+    .title2{
+        padding:5vh 0 0 0;
+    }
+
+    .logo2{
+        display:none;
+    }
+    
+    .one-third1{
+        width:100vw;
+        height:60vh;
+    }
+
+    .two-third1{
+        width:100vw;
+    }
+
+    .button{
+        margin: -10% 10% 0 10%;
+    }
+}
+
+@media screen and (max-width:716px){
+    .button{
+        margin: -5% 10% 0 10%;
+    }
+}
+
+@media screen and (max-width:600px){
+        h2{
+        font-size: 1.1rem;
+    }
+
+    body{
+        font-size:.8rem;
+    }
+
+    .flavor{
+        width:33.3333%;
+    }
+
+    .hamburger{
+        width: 18%;
+        height: 18%;
+    }
+
+}
+
+
+   
